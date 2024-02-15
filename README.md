@@ -1,5 +1,3 @@
-![Cover](./.github/cover.png)
-
 # Notes
 Essa aplicação foi desenvolvida utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
 
