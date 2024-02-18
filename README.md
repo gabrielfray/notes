@@ -13,7 +13,7 @@
   <a href="#links">Links Relevantes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#techs">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#install">Instalação e Uso</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#devs">Desenvolvedores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#devs">Desenvolvedor</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#terms">Termos de Uso</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -43,22 +43,38 @@ Visão geral das tecnologias usadas no projeto.
 
 <a name="install"></a>
 
-## 4. Instalação e Uso
+## 4. Instalação e uso
 
 ### 4.1 Requisitos:
+- React a partir da versão 18.0
+- Gerenciador de pacotes yarn ou npm
 
-- Node.js
-- npm ou Yarn
+### 4.2 Instalação
+4.2.1 - Após o clone no repositório para adicionar todas as dependências do package json execute o comando: 
+`yarn install` 
 
-### 4.2 Instalação:
+4.2.2 - Para rodar projeto utilize o comando `yarn dev` no terminal, caso de tudo certo receberá uma mensagem parecida com essa:
 
-4.2.1. Clone o repositório:
+```
+[INFO] 17:23:18 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.1, typescript ver. 4.8.4)
+VITE v4.0.4  ready in 4915 ms
 
-```sh
-git clone https://github.com/seu-usuario/notes.git
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose  
+  ➜  press h to show help
+```
 
-### 4.2.2. Navegue até a pasta do projeto:
+<a name="devs"></a>
 
-```sh
-cd notes
+## 5. Desenvolvedor
 
+
+[ Voltar para o topo ](#tabela-de-conteúdos)
+
+- <a name="Gabriel-Fray" href="https://www.linkedin.com/in/gabrielfray/" target="_blank">Gabriel Fray</a>
+
+<a name="terms"></a>
+
+## 6. Termos de uso
+
+Este é um projeto Open Source para fins educacionais e não comerciais, **Tipo de licença** - <a name="mit" href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>
